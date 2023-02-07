@@ -1,7 +1,6 @@
 # photo_gallery
-
-📌 Galería de fotos sencillo hecho con HTML y CSS
-📌 Simple photo gallery made with HTML and CSS
+📌**Galería de fotos sencillo hecho con HTML y CSS**
+📌**Simple photo gallery made with HTML and CSS**
 
 ---
 
